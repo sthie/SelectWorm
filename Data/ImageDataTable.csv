@@ -42,7 +42,7 @@ E2_22,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False)",,,"(False,False)",TRUE
 E2_23,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False)",,,"(True,False)",TRUE
 E3_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False)",,,"(True,False)",TRUE
 E4_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False)",,,"(False,True)",TRUE
-E4_10,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False,False)",,,"(True,True,False,False)",FALSE
+E4_10,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False,False)",,,"(True,True,False,False)",TRUE
 E5_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False)",,,"(False,False,False)",FALSE
 E6_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False)",,,"(False,False,False)",FALSE
 E7_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False)",,,"(False,False,False)",FALSE
