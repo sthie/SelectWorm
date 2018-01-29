@@ -76,8 +76,8 @@ P1_10,"(Texture2D'""/Game/Image/Monster/unidentified.unidentified""')",TRUE,TRUE
 P2_00,"(Texture2D'""/Game/Image/Monster/unidentified.unidentified""')",TRUE,TRUE,FALSE,검은애,,FALSE,FALSE,"(True,True,True)","(None,Texture2D'""/Game/Image/NPC/princess.princess""',None)",",공주,","(False,False,False)",FALSE
 P3_00,"(Texture2D'""/Game/Image/Monster/unidentified.unidentified""')",TRUE,TRUE,FALSE,검은애,,FALSE,FALSE,"(True,True,True)","(None,None,Texture2D'""/Game/Image/NPC/princess.princess""')",",,공주","(False,False,False)",FALSE
 P4_00,"(Texture2D'""/Game/Image/NPC/princess.princess""')",TRUE,FALSE,FALSE,공주,,FALSE,FALSE,"(False,False)",,,"(False,False)",FALSE
-P4_10,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(True,True,True)","(Texture2D'""/Game/Image/NPC/guard.guard,None,Texture2D'""/Game/Image/NPC/guard.guard)",호위병,"(False,False,False)",FALSE
-P4_20,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,True,False)",,,"(False,False,False)",FALSE
+P4_10,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(True,True,True)",,,"(False,False,False)",FALSE
+P4_20,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,True,False)","(Texture2D'""/Game/Image/NPC/guard.guard"",None,Texture2D'""/Game/Image/NPC/guard.guard"")",호위병,"(False,False,False)",FALSE
 P4_30,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(True,True,True,True,True,True)",,,"(False,False,False,False,False,False)",FALSE
 P4_40,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(True,False,False,True,False)",,,"(True,False,False,False,False)",FALSE
 H1_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False)",,,"(True,False)",TRUE
@@ -145,7 +145,7 @@ L2_83,,FALSE,FALSE,FALSE,,,TRUE,TRUE,"(False,False,False,False)",,,"(False,False
 W1_00,"(Texture2D'""/Game/Image/Monster/box.box""')",TRUE,FALSE,TRUE,상자,,FALSE,FALSE,"(False,False,True,True,False,False,True,True)",,,"(False,False,False,False,False,False,False,False)",FALSE
 W1_10,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,True,True,False,False,True,True)",,,"(False,False,False,False,False,False,False,False)",FALSE
 X1_00,"(Texture2D'""/Game/Image/Monster/door.door""')",TRUE,FALSE,TRUE,문,,FALSE,FALSE,"(True,True)",,,"(False,False)",FALSE
-L3_00,,FALSE,FALSE,FALSE,,,FALSE,FALSE,(False),,,(False),FALSE
+L3_00,"(Texture2D'""/Game/Image/Monster/uniquebox.uniquebox""')",TRUE,FALSE,FALSE,,,FALSE,FALSE,(True),,,(False),FALSE
 L3_10,"(Texture2D'""/Game/Image/NPC/hero.hero""')",TRUE,FALSE,FALSE,용사,,FALSE,FALSE,"(False,False)",,,"(False,False)",FALSE
 L3_20,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False,False)",,,"(False,False,False,False)",FALSE
 L3_21,,FALSE,FALSE,FALSE,,,FALSE,FALSE,"(False,False,False,False)",,,"(False,False,False,False)",FALSE
